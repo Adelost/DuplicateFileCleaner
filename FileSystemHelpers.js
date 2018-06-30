@@ -5,9 +5,6 @@ const crypto = require('crypto');
 /**
  * EXAMPLE USAGE:
  */
-// const { files } = findFiles('C:/SomePath');
-// const duplicates = findDuplicates(files);
-// console.log(duplicates);
 
 /**
  * @returns {Object} result of recursivly searching path {string}
